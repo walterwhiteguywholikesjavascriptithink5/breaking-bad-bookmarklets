@@ -1,0 +1,1 @@
+javascript:(async function()%7Bjavascript:var imgs = document.getElementsByTagName("img");for(var i=0, l=imgs.length;i<l;i++)%7Bimgs%5Bi%5D.src = "https://www.looper.com/img/gallery/bob-odenkirks-biggest-struggle-with-playing-saul-goodman-on-better-call-saul/l-intro-1654873898.jpg";%7D%7D)()
