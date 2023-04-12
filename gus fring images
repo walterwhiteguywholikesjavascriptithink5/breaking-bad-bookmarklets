@@ -1,0 +1,1 @@
+javascript:(async function()%7Bjavascript:var imgs = document.getElementsByTagName("img");for(var i=0, l=imgs.length;i<l;i++)%7Bimgs%5Bi%5D.src = "https://upload.wikimedia.org/wikipedia/en/6/69/Gustavo_Fring_BCS_S3E10.png";%7D%7D)()
