@@ -1,0 +1,1 @@
+javascript:(async function()%7Bjavascript:var imgs = document.getElementsByTagName("img");%0Afor(var i=0, l=imgs.length; i<l; i++) %7B%0A  imgs%5Bi%5D.src = "http://media1.s-nbcnews.com/i/streams/2013/August/130808/6C8558749-130808-walter-white-tease.jpg";%0A%7D%7D)()
